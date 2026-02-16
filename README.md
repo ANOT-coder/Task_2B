@@ -3,8 +3,8 @@ A deep-learning-based NLP system fine-tuned on the **IndoBERT** architecture to 
 
 ## 📊 Dataset Background
 The model was trained using the **Indonesian Emotion Twitter Dataset**. Social media data in Indonesia is uniquely challenging due to its "code-switching" nature (mixing formal Indonesian with local dialects and English) and the heavy use of "Bahasa Gaul" (slang).
-* **Dataset Source:** [Indonesian Twitter Emotion Dataset](https://github.com/meisaputri21/Indonesian-Twitter-Emotion-Dataset)
-* **Total Samples:** ~4,400 labeled tweets.
+* **Dataset Source:** [Indonesian Twitter Emotion Dataset](https://www.kaggle.com/datasets/dennisherdi/indonesian-twitter-emotion)
+
 
 ---
 
